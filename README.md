@@ -1,4 +1,4 @@
-# Editor PDF (React + TypeScript)
+# Editor PDF 
 
 Este proyecto es un editor PDF en navegador que permite:
 
